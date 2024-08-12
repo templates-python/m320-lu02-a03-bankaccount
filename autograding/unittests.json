@@ -1,0 +1,44 @@
+[
+  {
+    "name": "test_initial_balance",
+    "function": "test_initial_balance",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_initial_overdraft",
+    "function": "test_initial_overdraft",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_customer",
+    "function": "test_customer",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_booking",
+    "function": "test_booking",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_get_money_available",
+    "function": "test_get_money_available",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_get_money_overdraft",
+    "function": "test_get_money_overdraft",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_balance_after_transactions",
+    "function": "test_balance_after_transactions",
+    "timeout": 10,
+    "points": 1
+  }
+]
